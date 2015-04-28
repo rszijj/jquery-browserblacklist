@@ -1,0 +1,25 @@
+{
+  "name": "jquery-browserblacklist",
+  "version": "1.0.0",
+  "description": "Customize a browser blacklist for your features",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "blacklist",
+    "browserblacklist",
+    "plugins"
+  ],
+  "author": {
+    "name": "Romain SZIJJ",
+    "url": "https://github.com/rszijj"
+  },
+  "homepage": "https://github.com/rszijj/jquery-browserblacklist",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
